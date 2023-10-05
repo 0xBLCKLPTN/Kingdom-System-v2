@@ -1,0 +1,10 @@
+/Users/daniilermolaev/Documents/Kingdom-System-v2/plugs/schedule_api_plug/target/debug/deps/sha1-434c0b00872c75b7.rmeta: /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha1-0.10.6/src/lib.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha1-0.10.6/src/compress.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha1-0.10.6/src/compress/soft.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha1-0.10.6/src/compress/x86.rs
+
+/Users/daniilermolaev/Documents/Kingdom-System-v2/plugs/schedule_api_plug/target/debug/deps/libsha1-434c0b00872c75b7.rlib: /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha1-0.10.6/src/lib.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha1-0.10.6/src/compress.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha1-0.10.6/src/compress/soft.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha1-0.10.6/src/compress/x86.rs
+
+/Users/daniilermolaev/Documents/Kingdom-System-v2/plugs/schedule_api_plug/target/debug/deps/sha1-434c0b00872c75b7.d: /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha1-0.10.6/src/lib.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha1-0.10.6/src/compress.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha1-0.10.6/src/compress/soft.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha1-0.10.6/src/compress/x86.rs
+
+/Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha1-0.10.6/src/lib.rs:
+/Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha1-0.10.6/src/compress.rs:
+/Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha1-0.10.6/src/compress/soft.rs:
+/Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha1-0.10.6/src/compress/x86.rs:

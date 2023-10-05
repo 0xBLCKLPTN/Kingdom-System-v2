@@ -1,0 +1,11 @@
+/Users/daniilermolaev/Documents/Kingdom-System-v2/plugs/schedule_api_plug/target/debug/deps/wyz-9736fdf0527d881d.rmeta: /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wyz-0.5.1/src/lib.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wyz-0.5.1/src/bidi.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wyz-0.5.1/src/comu.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wyz-0.5.1/src/fmt.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wyz-0.5.1/src/range.rs
+
+/Users/daniilermolaev/Documents/Kingdom-System-v2/plugs/schedule_api_plug/target/debug/deps/libwyz-9736fdf0527d881d.rlib: /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wyz-0.5.1/src/lib.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wyz-0.5.1/src/bidi.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wyz-0.5.1/src/comu.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wyz-0.5.1/src/fmt.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wyz-0.5.1/src/range.rs
+
+/Users/daniilermolaev/Documents/Kingdom-System-v2/plugs/schedule_api_plug/target/debug/deps/wyz-9736fdf0527d881d.d: /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wyz-0.5.1/src/lib.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wyz-0.5.1/src/bidi.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wyz-0.5.1/src/comu.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wyz-0.5.1/src/fmt.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wyz-0.5.1/src/range.rs
+
+/Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wyz-0.5.1/src/lib.rs:
+/Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wyz-0.5.1/src/bidi.rs:
+/Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wyz-0.5.1/src/comu.rs:
+/Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wyz-0.5.1/src/fmt.rs:
+/Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wyz-0.5.1/src/range.rs:

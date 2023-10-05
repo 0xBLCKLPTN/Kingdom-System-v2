@@ -1,0 +1,9 @@
+/Users/daniilermolaev/Documents/Kingdom-System-v2/plugs/schedule_api_plug/target/debug/deps/encoding_index_simpchinese-1585371542db7cc8.rmeta: /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/encoding-index-simpchinese-1.20141219.5/lib.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/encoding-index-simpchinese-1.20141219.5/gb18030.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/encoding-index-simpchinese-1.20141219.5/gb18030_ranges.rs
+
+/Users/daniilermolaev/Documents/Kingdom-System-v2/plugs/schedule_api_plug/target/debug/deps/libencoding_index_simpchinese-1585371542db7cc8.rlib: /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/encoding-index-simpchinese-1.20141219.5/lib.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/encoding-index-simpchinese-1.20141219.5/gb18030.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/encoding-index-simpchinese-1.20141219.5/gb18030_ranges.rs
+
+/Users/daniilermolaev/Documents/Kingdom-System-v2/plugs/schedule_api_plug/target/debug/deps/encoding_index_simpchinese-1585371542db7cc8.d: /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/encoding-index-simpchinese-1.20141219.5/lib.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/encoding-index-simpchinese-1.20141219.5/gb18030.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/encoding-index-simpchinese-1.20141219.5/gb18030_ranges.rs
+
+/Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/encoding-index-simpchinese-1.20141219.5/lib.rs:
+/Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/encoding-index-simpchinese-1.20141219.5/gb18030.rs:
+/Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/encoding-index-simpchinese-1.20141219.5/gb18030_ranges.rs:

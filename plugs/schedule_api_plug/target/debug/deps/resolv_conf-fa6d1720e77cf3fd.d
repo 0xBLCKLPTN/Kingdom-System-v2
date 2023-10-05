@@ -1,0 +1,10 @@
+/Users/daniilermolaev/Documents/Kingdom-System-v2/plugs/schedule_api_plug/target/debug/deps/resolv_conf-fa6d1720e77cf3fd.rmeta: /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.7.0/src/lib.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.7.0/src/grammar.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.7.0/src/ip.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.7.0/src/config.rs
+
+/Users/daniilermolaev/Documents/Kingdom-System-v2/plugs/schedule_api_plug/target/debug/deps/libresolv_conf-fa6d1720e77cf3fd.rlib: /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.7.0/src/lib.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.7.0/src/grammar.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.7.0/src/ip.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.7.0/src/config.rs
+
+/Users/daniilermolaev/Documents/Kingdom-System-v2/plugs/schedule_api_plug/target/debug/deps/resolv_conf-fa6d1720e77cf3fd.d: /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.7.0/src/lib.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.7.0/src/grammar.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.7.0/src/ip.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.7.0/src/config.rs
+
+/Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.7.0/src/lib.rs:
+/Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.7.0/src/grammar.rs:
+/Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.7.0/src/ip.rs:
+/Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.7.0/src/config.rs:

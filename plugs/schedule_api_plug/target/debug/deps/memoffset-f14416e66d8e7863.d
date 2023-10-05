@@ -1,0 +1,10 @@
+/Users/daniilermolaev/Documents/Kingdom-System-v2/plugs/schedule_api_plug/target/debug/deps/memoffset-f14416e66d8e7863.rmeta: /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/lib.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/raw_field.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/offset_of.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/span_of.rs
+
+/Users/daniilermolaev/Documents/Kingdom-System-v2/plugs/schedule_api_plug/target/debug/deps/libmemoffset-f14416e66d8e7863.rlib: /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/lib.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/raw_field.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/offset_of.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/span_of.rs
+
+/Users/daniilermolaev/Documents/Kingdom-System-v2/plugs/schedule_api_plug/target/debug/deps/memoffset-f14416e66d8e7863.d: /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/lib.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/raw_field.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/offset_of.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/span_of.rs
+
+/Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/lib.rs:
+/Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/raw_field.rs:
+/Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/offset_of.rs:
+/Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/span_of.rs:
