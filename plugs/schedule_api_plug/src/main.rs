@@ -1,7 +1,6 @@
 mod endpoints;
 
 use endpoints::schedule::*;
-
 use actix_web::{App, post, get, web, HttpResponse, HttpServer, Responder};
 use actix_web::middleware::Logger;
 use env_logger::Env;
