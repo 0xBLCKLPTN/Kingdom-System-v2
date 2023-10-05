@@ -1,12 +1,11 @@
+import redis
+
 class RedisController:
     def __init__(self):
-        pass
+        self.r = redis.Redis(host='localhost', port=6379, decode_responses=True)
     
-    def add_code(self):
-        pass
-    
-    def delete_code(self):
-        pass
-    
-    def get_code(self):
+    def find_email(self, email: str = ""):
+        self.r.get()
+
+    def delete_email(self):
         pass
