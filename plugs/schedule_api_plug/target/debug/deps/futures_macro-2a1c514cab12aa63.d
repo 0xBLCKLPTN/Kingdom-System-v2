@@ -1,9 +1,0 @@
-/Users/daniilermolaev/Documents/Kingdom-System-v2/plugs/schedule_api_plug/target/debug/deps/libfutures_macro-2a1c514cab12aa63.dylib: /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.28/src/lib.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.28/src/executor.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.28/src/join.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.28/src/select.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.28/src/stream_select.rs
-
-/Users/daniilermolaev/Documents/Kingdom-System-v2/plugs/schedule_api_plug/target/debug/deps/futures_macro-2a1c514cab12aa63.d: /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.28/src/lib.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.28/src/executor.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.28/src/join.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.28/src/select.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.28/src/stream_select.rs
-
-/Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.28/src/lib.rs:
-/Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.28/src/executor.rs:
-/Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.28/src/join.rs:
-/Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.28/src/select.rs:
-/Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.28/src/stream_select.rs:

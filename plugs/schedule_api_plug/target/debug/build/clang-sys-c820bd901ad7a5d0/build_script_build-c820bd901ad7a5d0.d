@@ -1,9 +1,0 @@
-/Users/daniilermolaev/Documents/Kingdom-System-v2/plugs/schedule_api_plug/target/debug/build/clang-sys-c820bd901ad7a5d0/build_script_build-c820bd901ad7a5d0: /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/build.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/build/macros.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/build/common.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/build/dynamic.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/build/static.rs
-
-/Users/daniilermolaev/Documents/Kingdom-System-v2/plugs/schedule_api_plug/target/debug/build/clang-sys-c820bd901ad7a5d0/build_script_build-c820bd901ad7a5d0.d: /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/build.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/build/macros.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/build/common.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/build/dynamic.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/build/static.rs
-
-/Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/build.rs:
-/Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/build/macros.rs:
-/Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/build/common.rs:
-/Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/build/dynamic.rs:
-/Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/build/static.rs:

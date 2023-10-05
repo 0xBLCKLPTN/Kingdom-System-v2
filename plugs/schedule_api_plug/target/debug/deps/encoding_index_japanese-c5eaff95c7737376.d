@@ -1,9 +1,0 @@
-/Users/daniilermolaev/Documents/Kingdom-System-v2/plugs/schedule_api_plug/target/debug/deps/encoding_index_japanese-c5eaff95c7737376.rmeta: /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/encoding-index-japanese-1.20141219.5/lib.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/encoding-index-japanese-1.20141219.5/jis0208.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/encoding-index-japanese-1.20141219.5/jis0212.rs
-
-/Users/daniilermolaev/Documents/Kingdom-System-v2/plugs/schedule_api_plug/target/debug/deps/libencoding_index_japanese-c5eaff95c7737376.rlib: /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/encoding-index-japanese-1.20141219.5/lib.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/encoding-index-japanese-1.20141219.5/jis0208.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/encoding-index-japanese-1.20141219.5/jis0212.rs
-
-/Users/daniilermolaev/Documents/Kingdom-System-v2/plugs/schedule_api_plug/target/debug/deps/encoding_index_japanese-c5eaff95c7737376.d: /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/encoding-index-japanese-1.20141219.5/lib.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/encoding-index-japanese-1.20141219.5/jis0208.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/encoding-index-japanese-1.20141219.5/jis0212.rs
-
-/Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/encoding-index-japanese-1.20141219.5/lib.rs:
-/Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/encoding-index-japanese-1.20141219.5/jis0208.rs:
-/Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/encoding-index-japanese-1.20141219.5/jis0212.rs:

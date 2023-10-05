@@ -1,5 +1,0 @@
-/Users/daniilermolaev/Documents/Kingdom-System-v2/plugs/schedule_api_plug/target/debug/build/radium-0ef72b0edd59c876/build_script_build-0ef72b0edd59c876: /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/radium-0.7.0/build.rs
-
-/Users/daniilermolaev/Documents/Kingdom-System-v2/plugs/schedule_api_plug/target/debug/build/radium-0ef72b0edd59c876/build_script_build-0ef72b0edd59c876.d: /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/radium-0.7.0/build.rs
-
-/Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/radium-0.7.0/build.rs:

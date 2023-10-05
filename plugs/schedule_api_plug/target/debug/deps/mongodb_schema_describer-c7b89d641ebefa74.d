@@ -1,9 +1,0 @@
-/Users/daniilermolaev/Documents/Kingdom-System-v2/plugs/schedule_api_plug/target/debug/deps/mongodb_schema_describer-c7b89d641ebefa74.rmeta: /Users/daniilermolaev/.cargo/git/checkouts/prisma-engines-8e1416dd0e571d11/7cc20cc/libs/mongodb-schema-describer/src/lib.rs /Users/daniilermolaev/.cargo/git/checkouts/prisma-engines-8e1416dd0e571d11/7cc20cc/libs/mongodb-schema-describer/src/schema.rs /Users/daniilermolaev/.cargo/git/checkouts/prisma-engines-8e1416dd0e571d11/7cc20cc/libs/mongodb-schema-describer/src/walkers.rs
-
-/Users/daniilermolaev/Documents/Kingdom-System-v2/plugs/schedule_api_plug/target/debug/deps/libmongodb_schema_describer-c7b89d641ebefa74.rlib: /Users/daniilermolaev/.cargo/git/checkouts/prisma-engines-8e1416dd0e571d11/7cc20cc/libs/mongodb-schema-describer/src/lib.rs /Users/daniilermolaev/.cargo/git/checkouts/prisma-engines-8e1416dd0e571d11/7cc20cc/libs/mongodb-schema-describer/src/schema.rs /Users/daniilermolaev/.cargo/git/checkouts/prisma-engines-8e1416dd0e571d11/7cc20cc/libs/mongodb-schema-describer/src/walkers.rs
-
-/Users/daniilermolaev/Documents/Kingdom-System-v2/plugs/schedule_api_plug/target/debug/deps/mongodb_schema_describer-c7b89d641ebefa74.d: /Users/daniilermolaev/.cargo/git/checkouts/prisma-engines-8e1416dd0e571d11/7cc20cc/libs/mongodb-schema-describer/src/lib.rs /Users/daniilermolaev/.cargo/git/checkouts/prisma-engines-8e1416dd0e571d11/7cc20cc/libs/mongodb-schema-describer/src/schema.rs /Users/daniilermolaev/.cargo/git/checkouts/prisma-engines-8e1416dd0e571d11/7cc20cc/libs/mongodb-schema-describer/src/walkers.rs
-
-/Users/daniilermolaev/.cargo/git/checkouts/prisma-engines-8e1416dd0e571d11/7cc20cc/libs/mongodb-schema-describer/src/lib.rs:
-/Users/daniilermolaev/.cargo/git/checkouts/prisma-engines-8e1416dd0e571d11/7cc20cc/libs/mongodb-schema-describer/src/schema.rs:
-/Users/daniilermolaev/.cargo/git/checkouts/prisma-engines-8e1416dd0e571d11/7cc20cc/libs/mongodb-schema-describer/src/walkers.rs:
