@@ -1,0 +1,9 @@
+/Users/daniilermolaev/Documents/Kingdom-System-v2/plugs/schedule_api_plug/target/debug/deps/zstd_sys-6952341b0a37e3cd.rmeta: /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.8+zstd.1.5.5/src/lib.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.8+zstd.1.5.5/src/bindings_zstd_std.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.8+zstd.1.5.5/src/bindings_zdict_std.rs
+
+/Users/daniilermolaev/Documents/Kingdom-System-v2/plugs/schedule_api_plug/target/debug/deps/libzstd_sys-6952341b0a37e3cd.rlib: /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.8+zstd.1.5.5/src/lib.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.8+zstd.1.5.5/src/bindings_zstd_std.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.8+zstd.1.5.5/src/bindings_zdict_std.rs
+
+/Users/daniilermolaev/Documents/Kingdom-System-v2/plugs/schedule_api_plug/target/debug/deps/zstd_sys-6952341b0a37e3cd.d: /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.8+zstd.1.5.5/src/lib.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.8+zstd.1.5.5/src/bindings_zstd_std.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.8+zstd.1.5.5/src/bindings_zdict_std.rs
+
+/Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.8+zstd.1.5.5/src/lib.rs:
+/Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.8+zstd.1.5.5/src/bindings_zstd_std.rs:
+/Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.8+zstd.1.5.5/src/bindings_zdict_std.rs:

@@ -1,0 +1,19 @@
+GET http://localhost:8080/health
+Accept: application/json
+
+###
+
+POST http://localhost:8080/schedule
+Accept: application/json
+
+###
+
+GET http://localhost:8080/schedule
+Accept: application/json
+
+###
+
+PUT http://localhost:8080/schedule
+Accept: application/json
+
+###

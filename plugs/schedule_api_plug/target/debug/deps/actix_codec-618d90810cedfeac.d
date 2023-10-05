@@ -1,0 +1,10 @@
+/Users/daniilermolaev/Documents/Kingdom-System-v2/plugs/schedule_api_plug/target/debug/deps/actix_codec-618d90810cedfeac.rmeta: /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.1/src/lib.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.1/src/bcodec.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.1/src/framed.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.1/src/lines.rs
+
+/Users/daniilermolaev/Documents/Kingdom-System-v2/plugs/schedule_api_plug/target/debug/deps/libactix_codec-618d90810cedfeac.rlib: /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.1/src/lib.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.1/src/bcodec.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.1/src/framed.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.1/src/lines.rs
+
+/Users/daniilermolaev/Documents/Kingdom-System-v2/plugs/schedule_api_plug/target/debug/deps/actix_codec-618d90810cedfeac.d: /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.1/src/lib.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.1/src/bcodec.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.1/src/framed.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.1/src/lines.rs
+
+/Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.1/src/lib.rs:
+/Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.1/src/bcodec.rs:
+/Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.1/src/framed.rs:
+/Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.1/src/lines.rs:

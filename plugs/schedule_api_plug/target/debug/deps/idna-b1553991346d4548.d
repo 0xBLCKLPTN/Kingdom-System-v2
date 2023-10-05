@@ -1,0 +1,10 @@
+/Users/daniilermolaev/Documents/Kingdom-System-v2/plugs/schedule_api_plug/target/debug/deps/idna-b1553991346d4548.rmeta: /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/lib.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/punycode.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/uts46.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/uts46_mapping_table.rs
+
+/Users/daniilermolaev/Documents/Kingdom-System-v2/plugs/schedule_api_plug/target/debug/deps/libidna-b1553991346d4548.rlib: /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/lib.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/punycode.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/uts46.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/uts46_mapping_table.rs
+
+/Users/daniilermolaev/Documents/Kingdom-System-v2/plugs/schedule_api_plug/target/debug/deps/idna-b1553991346d4548.d: /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/lib.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/punycode.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/uts46.rs /Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/uts46_mapping_table.rs
+
+/Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/lib.rs:
+/Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/punycode.rs:
+/Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/uts46.rs:
+/Users/daniilermolaev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/uts46_mapping_table.rs:
